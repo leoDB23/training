@@ -4,3 +4,4 @@ Third entry into notepad for today.:)
 Another entry now
 Hello ... what is git? 
 No idea
+Does anyone know? - from Rstudio
