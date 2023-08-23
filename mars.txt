@@ -2,3 +2,4 @@ This notepad will be used to take notes during this session.
 This is the second entry in this notepad for today.
 Third entry into notepad for today.:)
 Another entry now
+Hello ... what is git? 
