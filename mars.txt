@@ -3,3 +3,4 @@ This is the second entry in this notepad for today.
 Third entry into notepad for today.:)
 Another entry now
 Hello ... what is git? 
+No idea
